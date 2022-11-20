@@ -1,0 +1,25 @@
+.page-title{
+	line-height: 40px;
+	border-bottom: 1px solid gray;
+	margin-top: 20px;
+
+}
+body {
+	background-color: linen;
+}
+h1 {
+	color: maroon;
+	margin-left: 40px;
+} 
+.error {
+	color: #FF0000;
+}
+.success {
+	color: #00ff08;
+}
+input {
+	border-radius: 4px;
+}
+textarea {
+	border-radius: 4px;
+}
